@@ -27,3 +27,4 @@ Escola virtual gov
 Prime Cursos 
 :link: https://www.primecursos.com.br/
 :information_source: Diversos cursos em varias áreas de conhecimento.
+-
